@@ -1,2 +1,4 @@
 # web-mark-book
-On line mark book for parents
+On line school administration
+
+Check out demo on www.karlostanisic.com
